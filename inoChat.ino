@@ -36,7 +36,7 @@ void setup() {
 
   
   //temporary
-  String jsonConfigData = "{\"hostname\":\"ESP32BK\",\"SSID\":\"COOL!Box\",\"wifiPassword\":\"01892533340\",\"model\":\"gpt-3.5-turbo\",\"openAiKey\":\"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\",\"systemPrompt\":\"You are a Speech recognizing Chat bot. Have a conversation with the user.\"}";
+  String jsonConfigData = "{\"hostname\":\"ESP32BK\",\"SSID\":\"COOL!Box\",\"wifiPassword\":\"01892533340\",\"model\":\"gpt-3.5-turbo\",\"openAiKey\":\"insert key here\",\"systemPrompt\":\"You are a Speech recognizing Chat bot. Have a conversation with the user.\"}";
 
 //----------parsing config file------------
 
